@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @algodevstats
-- 👀 I’m helping to manage the Algorand developer stats by tracking algorand related repos..
+- 👀 I’m helping to manage the Algorand developer stats by tracking algorand related project repos..
 - 💞️ Happy to consider help from other Algorand enthusiasts..
-- 📫 Contact me on algodevstats@gmail.com
+- 📫 Contact me on info@algodevstats.com
